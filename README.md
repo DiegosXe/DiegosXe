@@ -1,7 +1,7 @@
 ## Olá!! eu sou o Diego Borelli, estudante de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/DiegosXe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegosXe&show_icons=true&theme=gruvbox&&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegosXe&show_icons=true&theme=gruvbox"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegosXe&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div style="display: inline_block"><br>
